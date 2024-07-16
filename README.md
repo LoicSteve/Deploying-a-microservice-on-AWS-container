@@ -30,3 +30,6 @@ something like this
 ### Invoke POST request
 
 run `invoke.sh`
+
+### Accesible port on AWS App Runner
+`https://nx223hdsax.eu-central-1.awsapprunner.com`
